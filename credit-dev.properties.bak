@@ -1,0 +1,3 @@
+account.msg="This is properties from account"
+account.ifsc=SBI100
+account.branch=bardoli
